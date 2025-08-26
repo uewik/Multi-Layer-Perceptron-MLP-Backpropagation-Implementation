@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the backpropagation algorithm for training Multi-Layer Perceptrons (MLPs) to approximate various mathematical functions. The implementation follows the backpropagation algorithm as described on pages 11-26 of neural network theory, featuring both feedforward and backward propagation steps with network parameter updates.
+This project implements the backpropagation algorithm for training Multi-Layer Perceptrons (MLPs) to approximate various mathematical functions. The implementation follows the backpropagation algorithm as described on pages 11-26 of Neural Network Design, featuring both feedforward and backward propagation steps with network parameter updates.
 
 ## Features
 
